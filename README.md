@@ -1,33 +1,27 @@
-# Restaurant-Website
-This is a Website of Restaurant. I am make Following Section in this Website.
+# Jane-s-world-Blog
+This is Jane-s-world-Blog. I am make Following Section in this Website.
 
-+ **Home**
++ **Welcome**
 
-+ **About**
++ **Popular Posts**
 
-+ **Service**
++ **Advertise**
 
-+ **Menu**
++ **TITLE HEADING**
 
-+ **Pages**
++ **Tags**
 
-  + Booking
++ **Inspiration**
+
++ **Follow Me**
   
-  + Our Team
-  
-  + Testimonial
-  
-  + Privacy Policy
-  
-  + Terms & Condition
-
-+ **Contact**
++ **Subscribe**
 
 Watch more Website Template in my Website.
 
-**Live Demo** - https://codecraft-beta.github.io/Restaurant-Website/
+**Live Demo** - https://codecraft-beta.github.io/Jane-s-world-Blog/
 
-**Website Video** - https://youtu.be/_o5HXHzuW0I?si=syUAEoSC5ZK2DHPt
+**Website Video** - Coming Soon
 
 # CodeCraft-Beta
 

@@ -21,7 +21,7 @@ Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/Jane-s-world-Blog/
 
-**Website Video** - Coming Soon
+**Website Video** - https://youtu.be/CNwoe8JrIkc
 
 # CodeCraft-Beta
 
@@ -47,7 +47,7 @@ Thankyou.
 
 **TikTok** - https://www.tiktok.com/@codecraft147
 
-**Website** - Coming Soon
+**Website** - https://designcraft.odoo.com/
 
 # Introduction
 

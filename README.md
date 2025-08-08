@@ -35,7 +35,7 @@ Thankyou.
 
 # Join Us
 
-**GitHub** - https://github.com/CodeCraft-Beta
+**GitHub** - https://github.com/AbdullahZaheer1/
 
 **YouTube** - https://www.youtube.com/@codecraftchannal
 

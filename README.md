@@ -19,7 +19,7 @@ This is Jane-s-world-Blog. I am make Following Section in this Website.
 
 Watch more Website Template in my Website.
 
-**Live Demo** - https://codecraft-beta.github.io/Jane-s-world-Blog/
+**Live Demo** - https://AbdullahZaheer1.github.io/Jane-s-world-Blog/
 
 **Website Video** - https://youtu.be/CNwoe8JrIkc
 

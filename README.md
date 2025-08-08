@@ -23,7 +23,7 @@ Watch more Website Template in my Website.
 
 **Website Video** - https://youtu.be/CNwoe8JrIkc
 
-# CodeCraft-Beta
+# AbdullahZaheer1
 
 This Github Account is Made Website Templates, Everyone Preview any Website Template and also Download the Templates.
 
@@ -47,7 +47,7 @@ Thankyou.
 
 **TikTok** - https://www.tiktok.com/@codecraft147
 
-**Website** - https://designcraft.odoo.com/
+**Website** - https://www.codecrafts.site
 
 # Introduction
 
@@ -56,5 +56,5 @@ Hello Everyone, My name is Abdullah Zaheer. I am making this Website Template. Y
 I am a Developer based in Multan, Pakistan. I am a Computer Science Undergraduate from Emerson University Multan. I am very passionate about improving my coding skills developing websites. I build WebApps and Websites using HTML, CSS, JS. Working for myself to improve my skills. Love to build Web clones.
 
 # Output
-![Image](https://github.com/CodeCraft-Beta/Jane-s-world-Blog/blob/main/Website%20Image.png?raw=true)
+![Image](https://github.com/AbdullahZaheer1/Jane-s-world-Blog/blob/main/Website%20Image.png?raw=true)
 
